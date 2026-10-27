@@ -40,7 +40,8 @@
 * **分工**：主迴圈 `while(1)` 持續執行非阻塞的按鈕偵測、狀態機更新與對應感官輸出；全程式採用 `HAL_GetTick()` 實現非阻塞計時，未動用額外硬體中斷 ISR。
 
 ## 8. 實作照片：
-![board](docs/board.jpg)
+<img width="4032" height="3024" alt="IMG_3066" src="https://github.com/user-attachments/assets/8733f186-0b7a-4cb5-b3b0-20f0941a6fec" />
+
 * **圖說**：STM32G474RE 開發板與外接按鈕、LED、蜂鳴器之麵包板整體實作硬體配置。
 
 ## 9. AI 使用說明：
